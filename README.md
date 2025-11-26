@@ -24,6 +24,9 @@ A beginner-friendly Machine Learning project that predicts Tesla (TSLA) stock pr
 - scikit-learn  
 
 ---
+
+## 📈 Prediction Graph
+
 ![Tesla Prediction Graph](tesla_prediction.png)
 
 
