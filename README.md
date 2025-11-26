@@ -24,6 +24,8 @@ A beginner-friendly Machine Learning project that predicts Tesla (TSLA) stock pr
 - scikit-learn  
 
 ---
+![Tesla Prediction Graph](tesla_prediction.png)
+
 
 ## 📥 Dataset  
 The dataset is downloaded using yfinance:
